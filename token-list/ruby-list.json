@@ -17,6 +17,14 @@
       },
       {
         "chainId": 1,
+        "address": "0x7bEb845daAD8c9c19e0c820A15CBEA3fB28BA23D",
+        "name": "Ruby Blockchain",
+        "symbol": "RBY",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/rubychain/ruby-defi/main/assets/ruby.png"
+      },
+      {
+        "chainId": 1,
         "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
         "name": "Wrapped BTC",
         "symbol": "WBTC",
